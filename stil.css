@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+p  { color:white;
+	font-family:"Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 20px;
+	line-height: 18px;
+	width: 600px;
+	background-color: black;
+	padding: 30px
+  }
+img {
+	height: 300px;
+ }
+ h7,h6 {color: black;
+	font-family:"Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 20px;
+	line-height: 18px;
+	width: 600px;	
+}
+body{
+	background-image: url("slike1/p8.jpg");
+	
+}
+h9,h10,h11,h12,h13,h15,h16,h17,h18,h19,h20 { color:black;
+	font-family:"Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 15px;
+	line-height: 10px;
+	width: 600px;
+	background-color: white;
+	padding: 1px;
+  }
+h8,h14,h21 {
+	color: white;
+	font-family:"Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 20px;
+	line-height: 10px;
+	width: 600px;
+	background-color:black;
+	padding: 1px;
+	}
+a {color: blue;
+	font-family:"Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 15px;
+	line-height: 10px;
+	width: 600px;
+	}
+h22 {color:white;
+	font-family:"Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 20px;
+	line-height: 10px;
+	width: 600px;
+	background-color: black
+	}
+		
+		
+	
+		
+	
+	
+	
+
+
